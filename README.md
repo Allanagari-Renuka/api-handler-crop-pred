@@ -465,7 +465,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Full Stack Developer | AI/ML Enthusiast
 
 - 🌐 Portfolio: [portfolio-beige-two-49.vercel.app](https://portfolio-beige-two-49.vercel.app/)
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/allanagari-renuka-8a9346263/)
 - 📧 Email: [allanagarirenuka28@gmail.com](mailto:allanagarirenuka28@gmail.com)
 - 🐙 GitHub: [@Allanagari-Renuka](https://github.com/Allanagari-Renuka)
 
